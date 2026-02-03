@@ -1,0 +1,6 @@
+C:\Users\Dany\Cleverence_test\Task1\bin\Release\Task1.exe.config
+C:\Users\Dany\Cleverence_test\Task1\bin\Release\Task1.exe
+C:\Users\Dany\Cleverence_test\Task1\bin\Release\Task1.pdb
+C:\Users\Dany\Cleverence_test\Task1\obj\Release\Task1.csproj.CoreCompileInputs.cache
+C:\Users\Dany\Cleverence_test\Task1\obj\Release\Task1.exe
+C:\Users\Dany\Cleverence_test\Task1\obj\Release\Task1.pdb

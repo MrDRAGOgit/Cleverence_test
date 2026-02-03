@@ -1,0 +1,7 @@
+C:\Users\Dany\Cleverence_test\Task1\bin\Debug\Task1.exe.config
+C:\Users\Dany\Cleverence_test\Task1\bin\Debug\Task1.exe
+C:\Users\Dany\Cleverence_test\Task1\bin\Debug\Task1.pdb
+C:\Users\Dany\Cleverence_test\Task1\obj\Debug\Task1.csproj.AssemblyReference.cache
+C:\Users\Dany\Cleverence_test\Task1\obj\Debug\Task1.csproj.CoreCompileInputs.cache
+C:\Users\Dany\Cleverence_test\Task1\obj\Debug\Task1.exe
+C:\Users\Dany\Cleverence_test\Task1\obj\Debug\Task1.pdb
